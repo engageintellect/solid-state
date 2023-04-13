@@ -28,12 +28,12 @@ export default function Root() {
             <div class="">
               <div class="bg-zinc-900">
                 <div class="flex max-w-5xl mx-auto justify-between p-2 lg:p-4">
-                  <div class="flex gap-5 font-bold text-white uppercase">
+                  <div class="flex gap-5 font-semibold text-white uppercase">
                     <A href="/">Home</A>
                     <A href="/cart">Cart</A>
                   </div>
 
-                  <div class="flex gap-5 font-bold text-white uppercase">
+                  <div class="flex gap-5 font-semibold text-white uppercase">
                     <A href="/">User</A>
                   </div>
                 </div>
@@ -49,7 +49,7 @@ export default function Root() {
 
               <div class="bg-zinc-900">
                 <div class="flex max-w-5xl mx-auto justify-center p-2 lg:p-4">
-                  <div class="flex gap-5 font-bold text-white">
+                  <div class="flex gap-5 font-semibold text-white">
                     <A
                       href="https://github.com/engageintellect"
                       target="_blank"
